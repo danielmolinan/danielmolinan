@@ -25,7 +25,7 @@ Fine-tuning de **BETO** (BERT en español) para clasificación binaria de tweets
 `Python` `HuggingFace Transformers` `Scikit-learn` `NLP`
 
 ### [Predicción del Estado de Bombas de Agua](https://github.com/danielmolinan/water-pump-status-prediction)
-Clasificación multiclase sobre ~59.000 registros con pipeline completo: limpieza, feature engineering y comparación de algoritmos. Accuracy final: **0.813** con Random Forest optimizado.  
+Clasificación multiclase sobre 59.000 registros con pipeline completo: limpieza, feature engineering y comparación de algoritmos. Accuracy final: **0.813** con Random Forest optimizado.  
 `Python` `Pandas` `Scikit-learn` `XGBoost`
 
 ### [Análisis de Contratación Temporal en España](https://github.com/danielmolinan/temporary-employment-spain)
