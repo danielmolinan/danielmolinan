@@ -1,6 +1,6 @@
 # ¡Hola, soy Daniel Molina!
 
-Analista de datos en formación, con experiencia en entornos comerciales y operativos donde el trabajo con datos era parte del día a día — CRM, ERP, reporting de KPIs, análisis de clientes. En el momento cursando el **Máster en Data Science, Big Data & Business Analytics** en la Universidad Complutense de Madrid, donde estoy consolidando mis competencias técnicas en Python, SQL y Machine Learning.
+Analista de datos en formación, con experiencia en entornos comerciales y operativos donde el trabajo con datos es parte del día a día — CRM, ERP, reporting de KPIs, análisis de clientes. En el momento cursando el **Máster en Data Science, Big Data & Business Analytics** en la Universidad Complutense de Madrid, donde estoy consolidando mis competencias técnicas en Python, SQL y Machine Learning.
 
 Me interesa especialmente el análisis aplicado a contextos de negocio reales: no solo construir modelos, sino entender qué pregunta están respondiendo y cómo sus resultados se pueden capitalizar en decisiones.
 
@@ -31,6 +31,10 @@ Clasificación multiclase sobre ~59.000 registros con pipeline completo: limpiez
 ### [Análisis de Contratación Temporal en España](https://github.com/danielmolinan/temporary-employment-spain)
 Data storytelling sobre contratos ETT del Ministerio de Trabajo español, segmentados por sector CNAE. Series temporales, rankings sectoriales y visualizaciones anotadas para narrativa de datos.  
 `Python` `Pandas` `Matplotlib` `Seaborn`
+
+### [Análisis de Negocio con SQL](https://github.com/danielmolinan/sql-business-analysis)
+Consultas analíticas sobre ventas globales 2019–2021 (caso Smart Desk): JOINs múltiples, subconsultas, FULL OUTER JOIN y CASE WHEN, con interpretación de resultados orientada a decisiones de negocio.  
+`SQL` `Snowflake` `Business Analysis`
 
 ---
 
