@@ -32,6 +32,10 @@ Clasificación multiclase sobre 59.000 registros con pipeline completo: limpieza
 Consultas analíticas sobre ventas globales 2019–2021 (caso Smart Desk): JOINs múltiples, subconsultas, FULL OUTER JOIN y CASE WHEN, con interpretación de resultados orientada a decisiones de negocio.  
 `SQL` `Snowflake` `Business Analysis`
 
+### [Business Intelligence con Tableau](https://github.com/danielmolinan/tableau-business-intelligence)
+Dashboard interactivo de análisis de operaciones de préstamos (Easy Loans, 2023): KPIs, mapa geográfico, Tree Map y gráfico acumulado con filtros globales y parámetro Top N dinámico.  
+`Tableau` `Business Intelligence` `Data Visualization`
+
 ---
 
 ## Contacto
