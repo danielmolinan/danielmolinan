@@ -28,10 +28,6 @@ Fine-tuning de **BETO** (BERT en español) para clasificación binaria de tweets
 Clasificación multiclase sobre 59.000 registros con pipeline completo: limpieza, feature engineering y comparación de algoritmos. Accuracy final: **0.813** con Random Forest optimizado.  
 `Python` `Pandas` `Scikit-learn` `XGBoost`
 
-### [Análisis de Contratación Temporal en España](https://github.com/danielmolinan/temporary-employment-spain)
-Data storytelling sobre contratos ETT del Ministerio de Trabajo español, segmentados por sector CNAE. Series temporales, rankings sectoriales y visualizaciones anotadas para narrativa de datos.  
-`Python` `Pandas` `Matplotlib` `Seaborn`
-
 ### [Análisis de Negocio con SQL](https://github.com/danielmolinan/sql-business-analysis)
 Consultas analíticas sobre ventas globales 2019–2021 (caso Smart Desk): JOINs múltiples, subconsultas, FULL OUTER JOIN y CASE WHEN, con interpretación de resultados orientada a decisiones de negocio.  
 `SQL` `Snowflake` `Business Analysis`
