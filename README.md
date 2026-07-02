@@ -40,7 +40,7 @@ Dashboard interactivo de análisis de operaciones de préstamos (Easy Loans, 202
 
 ## Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-molina-novoa-78106925a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-molina-novoa/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Danielmolinanovoa13@gmail.com)
 
 📍 Madrid, España &nbsp;·&nbsp; 🌐 Español (nativo) · Inglés C1
