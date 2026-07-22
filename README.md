@@ -1,13 +1,11 @@
-# ¡Hola, soy Daniel Molina!
+# Hi, I'm Daniel Molina!
+Data Analyst in training, with experience in commercial and operational environments where working with data is part of the day-to-day — CRM, ERP, KPI reporting, customer analysis. Currently pursuing the **Master's in Data Science, Big Data & Business Analytics** at Universidad Complutense de Madrid, where I'm consolidating my technical skills in Python, SQL, and Machine Learning.
 
-Analista de datos en formación, con experiencia en entornos comerciales y operativos donde el trabajo con datos es parte del día a día — CRM, ERP, reporting de KPIs, análisis de clientes. En el momento cursando el **Máster en Data Science, Big Data & Business Analytics** en la Universidad Complutense de Madrid, donde estoy consolidando mis competencias técnicas en Python, SQL y Machine Learning.
-
-Me interesa especialmente el análisis aplicado a contextos de negocio reales: no solo construir modelos, sino entender qué pregunta están respondiendo y cómo sus resultados se pueden capitalizar en decisiones.
+I'm particularly interested in analysis applied to real business contexts: not just building models, but understanding what question they're answering and how the results can be turned into decisions.
 
 ---
 
-## Tecnologías y herramientas
-
+## Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -18,29 +16,28 @@ Me interesa especialmente el análisis aplicado a contextos de negocio reales: n
 
 ---
 
-## Proyectos destacados
+## Featured Projects
 
-### [Clasificación de Tweets Médicos con NLP](https://github.com/danielmolinan/tweet-classification-beto)
-Fine-tuning de **BETO** (BERT en español) para clasificación binaria de tweets COVID-19 en español. Mejora del F1-score de 0.526 (baseline TF-IDF) a **0.804**.  
+### [Medical Tweet Classification with NLP](https://github.com/danielmolinan/tweet-classification-beto)
+Fine-tuning **BETO** (Spanish BERT) for binary classification of Spanish-language COVID-19 tweets. Improved F1-score from 0.526 (TF-IDF baseline) to **0.804**.
 `Python` `HuggingFace Transformers` `Scikit-learn` `NLP`
 
-### [Predicción del Estado de Bombas de Agua](https://github.com/danielmolinan/water-pump-status-prediction)
-Clasificación multiclase sobre 59.000 registros con pipeline completo: limpieza, feature engineering y comparación de algoritmos. Accuracy final: **0.813** con Random Forest optimizado.  
+### [Water Pump Status Prediction](https://github.com/danielmolinan/water-pump-status-prediction)
+Multiclass classification on 59,000 records with a full pipeline: cleaning, feature engineering, and algorithm comparison. Final accuracy: **0.813** with optimized Random Forest.
 `Python` `Pandas` `Scikit-learn` `XGBoost`
 
-### [Análisis de Negocio con SQL](https://github.com/danielmolinan/sql-business-analysis)
-Consultas analíticas sobre ventas globales 2019–2021 (caso Smart Desk): JOINs múltiples, subconsultas, FULL OUTER JOIN y CASE WHEN, con interpretación de resultados orientada a decisiones de negocio.  
+### [Business Analysis with SQL](https://github.com/danielmolinan/sql-business-analysis)
+Analytical queries on 2019–2021 global sales data (Smart Desk case): multiple JOINs, subqueries, FULL OUTER JOIN, and CASE WHEN, with business-decision-oriented interpretation of results.
 `SQL` `Snowflake` `Business Analysis`
 
-### [Business Intelligence con Tableau](https://github.com/danielmolinan/tableau-business-intelligence)
-Dashboard interactivo de análisis de operaciones de préstamos (Easy Loans, 2023): KPIs, mapa geográfico, Tree Map y gráfico acumulado con filtros globales y parámetro Top N dinámico.  
+### [Business Intelligence with Tableau](https://github.com/danielmolinan/tableau-business-intelligence)
+Interactive dashboard analyzing loan operations (Easy Loans, 2023): KPIs, geographic map, Tree Map, and cumulative chart with global filters and a dynamic Top N parameter.
 `Tableau` `Business Intelligence` `Data Visualization`
 
 ---
 
-## Contacto
-
+## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-molina-novoa/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Danielmolinanovoa13@gmail.com)
 
-📍 Madrid, España &nbsp;·&nbsp; 🌐 Español (nativo) · Inglés C1
+📍 Madrid, Spain &nbsp;·&nbsp; 🌐 Spanish (native) · English C1
